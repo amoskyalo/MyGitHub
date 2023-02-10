@@ -17,8 +17,14 @@ Once Axios is installed, you can install the MyGitHub component:
 ### Usage
 
 To use the MyGitHub component, simply import it into your project and pass in the GitHub username and personal access token as props. Your personal access token is required to authenticate your request to the GitHub API.
-`import MyGitHub from 'MyGitHub';`
-`<MyGitHub username="your-github-username" token ="your-github-token"/>`
+```JavaScript
+import MyGitHub from 'MyGitHub';
+
+<MyGitHub 
+  username="your-github-username" 
+  token="your-github-token" 
+/>
+
 
 ### GitHub Personal Access Token
 
