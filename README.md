@@ -24,6 +24,7 @@ import MyGitHub from 'MyGitHub';
   username="your-github-username" 
   token="your-github-token" 
 />
+```
 
 
 ### GitHub Personal Access Token
