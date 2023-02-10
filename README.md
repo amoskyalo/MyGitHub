@@ -29,7 +29,11 @@ import MyGitHub from 'MyGitHub';
 
 ### GitHub Personal Access Token
 
-To get your GitHub personal access token, you can follow these steps: 1. Go to your GitHub Settings and click on Developer Settings. 2. Click on Personal access tokens. 3. Click on Generate new token. 4. Give your token a descriptive name, select the necessary permissions, and then click on Generate token.
+To get your GitHub personal access token, you can follow these steps: 
+    1. Go to your GitHub Settings and click on Developer Settings.
+    2. Click on Personal access tokens.
+    3. Click on Generate new token. 
+    4. Give your token a descriptive name, select the necessary permissions, and then click on Generate token.
 
 Your personal access token will be displayed only once, so make sure to copy it and store it securely.
 
